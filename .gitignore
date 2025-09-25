@@ -1,2 +1,1 @@
-# Exclude all environment variable files
-.env
+.venv
